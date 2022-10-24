@@ -11,6 +11,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"sideEffects": false,
 	"devDependencies": {
 		"html-webpack-plugin": "^5.5.0",
 		"ts-loader": "^9.4.1",
